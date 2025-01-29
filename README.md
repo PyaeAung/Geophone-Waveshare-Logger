@@ -11,4 +11,3 @@ This project records **seismic/geophone data** using a **Waveshare ADS1256 ADC**
 ✅ **Hourly MiniSEED Files**  
 ✅ **Auto-start on Boot (Systemd Service)**  
 
-## 📂 Project Structure
